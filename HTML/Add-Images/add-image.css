@@ -1,0 +1,20 @@
+body {
+  background-color: #333;
+  color: whitesmoke;
+}
+
+a {
+  color: fuchsia;
+}
+
+a:visited {
+  color: blueviolet;
+}
+
+a:hover{
+  color: rgb(0, 201, 0);
+}
+
+a:active {
+  color: white;
+}
