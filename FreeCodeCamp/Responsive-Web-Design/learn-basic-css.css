@@ -47,6 +47,10 @@ h2 {
   text-align: right
 }
 
+.bottom-line {
+  margin-top: 25px;
+}
+
 .menu {
   background-color: burlywood;
   width: 80%;
