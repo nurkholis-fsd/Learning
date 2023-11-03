@@ -32,6 +32,12 @@ h2 {
   font-style: italic;
 }
 
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .item p {
   display: inline-block;
   font-size: 18px;
