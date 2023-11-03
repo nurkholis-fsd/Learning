@@ -32,6 +32,8 @@ h2 {
 
 .item p {
   display: inline-block;
+  marign-top: 5px;
+  margin-bottom: 5px;
 }
 
 .flavor, .dessert {
