@@ -5,6 +5,10 @@ h1, h2, p {
   text-align: center;
 }
 
+.flavor {
+  text-align: left;
+}
+
 .menu {
   background-color: burlywood;
   width: 80%;
